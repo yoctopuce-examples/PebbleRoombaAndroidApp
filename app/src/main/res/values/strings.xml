@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PebbleRoomba</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dock">Dock</string>
+    <string name="spot">Spot</string>
+    <string name="clean">Clean</string>
+    <string name="docking">Docking…</string>
+    <string name="spotting">Cleaning…\n (Spot)</string>
+    <string name="cleaning">Cleanning…</string>
+    <string name="off">Off</string>
+    <string name="disconnected">Offline</string>
+    <string name="docked">Docked</string>
+</resources>
